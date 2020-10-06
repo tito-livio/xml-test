@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<data>
+    <country name="Brazil">
+        <rank>1</rank>
+    </country>
+    <country name="Ireland">
+        <rank>4</rank>
+    </country>
+    <country name="Panama">
+        <rank>68</rank>
+    </country>
+</data>
